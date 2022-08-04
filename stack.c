@@ -8,3 +8,7 @@ void push()
 {
     //some code baby
 }
+void exit()
+{
+    //no code babyy
+}
