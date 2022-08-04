@@ -3,3 +3,8 @@ int main()
 {
     //code bro
 }
+
+void push()
+{
+    //some code baby
+}
